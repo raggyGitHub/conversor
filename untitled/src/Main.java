@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        //componente JFrame
+       /* //componente JFrame
        JFrame miJFrame = new JFrame("Menu");
        miJFrame.setSize(500,300);
 
@@ -31,5 +31,7 @@ public class Main {
 
         miJFrame.add(miJPanel);
         miJFrame.setVisible(true);
+    }*/
+        MyFrame frame = new MyFrame();
     }
 }
